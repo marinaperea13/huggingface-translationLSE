@@ -1,0 +1,903 @@
+ {
+ 	"data": [{
+ 			"translation": {
+ 				"ls": "YO OYENTE NO",
+ 				"le": "No soy oyente"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "CERRAR HORA.RELOJ CUÁL",
+ 				"le": "¿A qué hora cierra?"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO CANSADO",
+ 				"le": "Me siento cansado"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "ALGO RUIDO",
+ 				"le": "¿Se oye ruido?"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "TÚ PENSAR CUÁL",
+ 				"le": "¿Tú qué crees?"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO ENFERMEDAD ASMA",
+ 				"le": "Tengo asma."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "GARGANTA DOLOR SORPRESA",
+ 				"le": "La garganta empezó a dolerme de repente."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "AYER FIEBRE SUBIR-NIVEL",
+ 				"le": "Ayer tuve fiebre."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "TÚ ESCRIBIR PODER",
+ 				"le": "¿Podrías escribirlo?"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "NO PORQUE",
+ 				"le": "¿Por qué no?"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "DINERO CAJERO DÓNDE",
+ 				"le": "¿Dónde hay un cajero automático?"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "REPETIR",
+ 				"le": "Repite, por favor"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "SIGNIFICAR QUÉ",
+ 				"le": "¿Eso qué significa?"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "MAÑANA LLOVER PODER",
+ 				"le": "A lo mejor llueve mañana"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO RELAJAR, TRANQUILO MÁS.CANTIDAD",
+ 				"le": "Estoy calmado, más tranquilo."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO ANSIEDAD",
+ 				"le": "Tengo ansiedad."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "PERDÓN TREN IR CÓMO",
+ 				"le": "Disculpe, ¿cómo se va a la estación?"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "NADA.IRRELEVANTE",
+ 				"le": "No pasa nada"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "TAXI LLAMAR PODER",
+ 				"le": "¿Podrías pedirme un taxi?"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "DISTANCIA CUÁL",
+ 				"le": "¿A qué distancia está?"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "ENTENDER NO",
+ 				"le": "No entiendo"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "ESPERAR SIGNAR DESPACIO",
+ 				"le": "Habla más despacio, por favor"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO DÉBIL",
+ 				"le": "Estoy débil."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "NOCHE YO INSOMNIO",
+ 				"le": "No duermo por las noches."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO VERDAD SORDO",
+ 				"le": "Soy una persona sorda."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "TELEFONEAR(s) NO",
+ 				"le": "No me llame por teléfono."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "TÚ ACONSEJAR.me QUÉ",
+ 				"le": "¿Qué me recomendarías?"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO DUDA",
+ 				"le": "Tengo una duda."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "AYUDAR.me PODER",
+ 				"le": "¿Podrías ayudarme?"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "HOSPITAL DÓNDE",
+ 				"le": "¿Dónde está el hospital?"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO TRISTE DORMIR MUCHO",
+ 				"le": "Estoy triste y duermo mucho."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "PASADO MES(DOS) INFLAMACIÓN-PECHO",
+ 				"le": "Hace dos meses me salió un bulto en el pecho."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "SERVICIO CUÁL",
+ 				"le": "¿Qué tipo de servicio ofreces?"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO VER-MAL",
+ 				"le": "No veo bien."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "COMER LISTA DAR-CARTA PODER",
+ 				"le": "¿Podría traerme la carta?"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "POR-FAVOR DECIR.me",
+ 				"le": "Por favor, dígamelo"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "TÚ INTÉRPRETE",
+ 				"le": "¿Eres intérprete?"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "HOY DÍA(‘mañana’) FRÍO",
+ 				"le": "Esta mañana hacía frío"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO POCO ESTRÉS",
+ 				"le": "Estoy un poco estresado."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO FAMILIA DIABETES HABER-NO",
+ 				"le": "No hay nadie con diabetes en mi familia."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "LUNES PRÓXIMO VER.nos",
+ 				"le": "Nos veremos el lunes que viene"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "HOLA, BIEN DÍA",
+ 				"le": "Hola, buenos días"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "MENSAJE(S) PODER",
+ 				"le": "¿Podría avisarme por mensaje?"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO PASAPORTE PERDER",
+ 				"le": "He perdido mi pasaporte"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "PERSONA HOMBRE QUIÉN",
+ 				"le": "¿Quién es ese hombre?"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "MÓVIL MENSAJEAR.nos",
+ 				"le": "Hablamos por el móvil"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "AUXILIAR EMBARAZO DÓNDE",
+ 				"le": "¿Dónde puedo encontrar a la matrona?"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "ESCRIBIR BILLETE YO HABER-NO",
+ 				"le": "No tengo recetas."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "PASADO SEMANA(DOS) EMPEZAR DOLOR-DE-CABEZA SUAVE",
+ 				"le": "Hace dos semanas empecé a tener ligeros dolores de cabeza."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO VENIR MOTIVO VACUNA G+R+I+P+E GRIPE",
+ 				"le": "Vengo a poner la vacuna de la gripe."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO DESCANSAR DESPUÉS SENTIR MEJOR",
+ 				"le": "Después de descansar me siento mejor."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "PASTILLA CÓMO, ANTES CENAR DESPUÉS, CÓMO",
+ 				"le": "¿Cómo tengo que tomar la medicación? ¿Antes de cenar o después?"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO DIARREA EMPEZAR PASADO SEMANA(TRES) MÁS-O-MENOS",
+ 				"le": "Tengo diarrea desde hace tres semanas más o menos."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "VOMITAR EMPEZAR AYER TARDE",
+ 				"le": "Ayer por la tarde empecé a vomitar."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO FUMAR NO, AÑO.PASADO DEJAR",
+ 				"le": "No fumo, lo dejé el año pasado."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "PIS REVISAR ANÁLISIS-SANGRE YO DEBER",
+ 				"le": "Tengo que hacer análisis de sangre y de orina."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO MAREO HASTA DESMAYO",
+ 				"le": "Me mareo y llego a desmayarme."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "AHORA PIERNAS HINCHADAS NO, NORMAL",
+ 				"le": "Ahora no tengo las piernas hinchadas, las tengo normal."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO FATAL, DÍA DÍA DÍA PEOR PEOR",
+ 				"le": "Estoy fatal, cada día me siento peor."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "DESAYUNAR LISTO HORA HORA(DOS) EMPEZAR ARDOR-GÁSTRICO",
+ 				"le": "Una hora o dos después de desayunar empiezan los ardores."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO ADELGAZAR RÁPIDO, HAMBRE HABER-NO",
+ 				"le": "He adelgadazo muy rápido porque no tengo apetito."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO PEQUEÑO TOCA MENINGITIS M+E+N+I+N+G+I+T+I+S",
+ 				"le": "De pequeño tuve meningitis."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "MÉDICO M+A+R+T+Í+N+E+Z DÓNDE?",
+ 				"le": "¿Dónde podría encontrar a la doctora Martínez?"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "PIS PACIENCIA AGARRAR PODER3",
+ 				"le": "Tengo incontinencia urinaria."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "MÉDICO PULMÓN NOMBRE P+U+L+M+O+N+Í+A",
+ 				"le": "Esto se dice pulmonía."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO URGENTE MÉDICO NECESITAR",
+ 				"le": "Necesito atención médica urgentemente."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO VENIR MOTIVO CERTIFICADO BAJA DAR(s)",
+ 				"le": "Vengo por la baja."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO OPERACIÓN LEVE, YA ALTA",
+ 				"le": "Fue una operación menor, ya me han dado el alta."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO HERIDA CURAR SÍ-NO",
+ 				"le": "Voy a hacer las curas cada dos días."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "SEMANA ESPALDA DOLOR INTENSO",
+ 				"le": "Esta semana me duele mucho la espalda."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "PASADO MES PRUEBA RADIOGRAFÍA",
+ 				"le": "El mes pasado me hicieron una radiografía."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO PASADO MES(NUEVE) ICTUS A-PARTIR-DE YO DEPRESIÓN",
+ 				"le": "Hace nueve meses tuve un ictus y desde entonces estoy deprimido."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "HOLA MI NOMBRE M+A+R+I+N+A",
+ 				"le": "Hola, mi nombre es Marina"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO EDAD 26 AÑOS",
+ 				"le": "Tengo 26 años."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO TRABAJAR NO-HAY",
+ 				"le": "No estoy trabajando."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO FUMAR",
+ 				"le": "Soy fumador."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO ALCOHOL BEBER NO",
+ 				"le": "No tomo alcohol."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO DEPORTE PRACTICAR OCASIONALMENTE",
+ 				"le": "Hago ejercicio ocasionalmente."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO SENTIR REGULAR",
+ 				"le": "No me encuentro bien."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO DOLOR DOLOR-DE-CABEZA",
+ 				"le": "Me duele la cabeza."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "ATRÁS MÉDICO RECETAR DAR.me ANTIBIÓTICO PERO SENTIR IGUAL",
+ 				"le": "Me recetaron antibióticos pero no noto mejoría."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "ATRÁS FIEBRE ALTA",
+ 				"le": "He tenido fiebre alta."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "ESTO OCURRIR PRIMERA NO HACIA-ATRÁS",
+ 				"le": "No es la primera vez que me pasa algo así."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "DOLOR CONSTANTE SIEMPRE",
+ 				"le": "El dolor es constante."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "ATRÁS HASTA-AHORA DORMIR BIEN NO",
+ 				"le": "ÚLtimamento no duermo bien."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO ADELGAZAR QUERER NO",
+ 				"le": "He perdido peso involuntariamente."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO COMER NO-ME-APETECE MAREOS",
+ 				"le": "No tengo apetito y me dan mareos."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "SERVICIO IR-VENIR BASTANTE",
+ 				"le": "Voy al baño de forma más frecuente de lo habitual."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO TOMAR NADA",
+ 				"le": "No tomo medicación."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO LECHE L+A+C+T+O+S+A INTOLERANCIA",
+ 				"le": "Soy intolerante a la lactosa."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO PAÍS OTRO VIAJAR NUNCA",
+ 				"le": "No he salido del país."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO EXTRANJERO VIAJAR YA",
+ 				"le": "He viajado al extranjero."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO ENFERMEDAD PARA-SIEMPRE",
+ 				"le": "Tengo una enfermedad crónica."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO ALERGIA NO-HAY",
+ 				"le": "No tengo alergias."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO TRATAMIENTO ATRÁS YA ENFERMEDAD OTRA",
+ 				"le": "Ya estuve en tratamiento por otra enfermedad."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "MI FAMILIA NADIE ENFERMEDAD NO-HAY",
+ 				"le": "En mi familia no hay enfermedades hereditarias."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "UNIVERSIDAD ANTES MI CAMBIAR UNIVERSIDAD SEVILLA QUERER PEDIR",
+ 				"le": "Quiero tramitar un cambio de expediente desde mi Universidad anterior a la de Sevilla."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO VENIR MOTIVO YO CERTIFICADO NOTA VENIR RECOGER",
+ 				"le": "Vengo a recoger mi certificado de notas."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "GESTIONAR HACER CUÁNTO TIEMPO",
+ 				"le": "¿Cuánto tardará en tramitarse?"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO CITA MOTIVO TÍTULO MI UNIVERSIDAD RECOGER",
+ 				"le": "Tengo cita para recoger mi título universitario."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO VENIR MOTIVO ENTREGAR MATRÍCULA",
+ 				"le": "Vengo a entregar la matrícula."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "PRECIO CUÁL",
+ 				"le": "¿Qué coste tiene?"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "LISTA-DE DOCUMENTO CUÁL DI.me",
+ 				"le": "¿Qué documentos necesito?"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO VENIR MOTIVO YO PEDIR QUÉ CAMBIAR HORARIO TEMA GRADO MI UNIVERSIDAD",
+ 				"le": "Vengo a entregar la solicitud de cambio de horario del grado."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "ESTUDIAR CARRERA FIN ASIGNATURA CONVALIDAR CUÁL",
+ 				"le": "Querría saber qué asignaturas me convalidan por haber estudiado esta carrera."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "BECA REQUISITOS PEDIR CUÁL",
+ 				"le": "¿Qué requisitos necesito para solicitar una beca?"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "MATRÍCULA ANULACIÓN PEDIR QUERER",
+ 				"le": "Me gustaría presentar una solicitud de anulación de matrícula."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "TÍTULO COPIAR PEDIR QUERER",
+ 				"le": "Querría solicitar un duplicado del título."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "MI ESTUDIAR CAMBIAR NECESITAR DOCUMENTO LISTA-DE CUÁL",
+ 				"le": "¿Qué documentación necesito para hacer el traslado de expediente?"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "TÍTULO MÁSTER TRAER SOLICITUD TRAER",
+ 				"le": "Vengo a entregar la solicitud para título de máster."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "GRUPO MI GRADO CAMBIAR INFORMACIÓN NECESITAR INFORMACIÓN",
+ 				"le": "Necesito información para el cambio de grupo de mi grado"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "FORMACIÓN COMPLEMENTARIA UNIVERSIDAD MI ESTUDIOS CRÉDITOS RECONOCER PROTOCOLO CUÁL",
+ 				"le": "¿Cuál es el protocolo para el reconocimiento de créditos por actividades formativas complementarias?"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "TÍTULO CERTIFICADO EUROPA VENIR RECOGER VENIR",
+ 				"le": "Vengo a recoger el suplemento europeo al título"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO PROGRAMA U+V+U+S ENCONTRAR IMPOSIBLE",
+ 				"le": "Me es imposible obtener mi clave de UVUS"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "MI MATRÍCULA CAMBIAR PODER",
+ 				"le": "¿Es posible modificar la matrícula?"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "EXTRANJERO ESTUDIO IR UNA-PARTE CONVALIDAR PODER",
+ 				"le": "¿Puedo convalidar parcialmente mis estudios en el extranjero?"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "LICENCIATURA GRADO UNIVERSIDAD YO CAMBIAR ESTUDIO CONTINUAR QUERER INFORMACIÓN QUERER",
+ 				"le": "Quiero información para continuar mis estudios con cambio de licenciatura a Grado"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "PAGAR CÓMO",
+ 				"le": "¿Cómo hago el abono de tasas?"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "MI PADRE VA SUSTITUIR.me ENTREGAR PODER",
+ 				"le": "¿Puede entregar mi padre la documentación en mi lugar?"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "INTERNET GESTIONAR HACER PODER",
+ 				"le": "¿Es posible realizar el trámite de forma telemática?"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO ANTIBIÓTICO PASTILLA HORA(OCHO) HORA(OCHO)",
+ 				"le": "Estoy con antibiótico/ibuprofeno cada ocho horas."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "SABER G+L+U+T+E+N YO COMER NO PODER3",
+ 				"le": "Yo no puedo comer con gluten."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "MADRE MORIR MOTIVO INFARTO",
+ 				"le": "Mi madre murió de un infarto (al corazón)."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "RESULTADO INFORMAR(s)",
+ 				"le": "Quería saber los resultados."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO COLESTEROL MENOS",
+ 				"le": "Me ha bajado el colesterol."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO LESIÓN GRAVE",
+ 				"le": "Tuve una lesión grave."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO QUERER CITA ENFERMERÍA",
+ 				"le": "Quería pedir cita para enfermería."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "REVISAR MES(TRES) MES(TRES)",
+ 				"le": "Voy a revisión cada tres meses."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO PASTILLA DIARIO",
+ 				"le": "Tomo la medicación todos los días."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO VISIÓN VER-MAL DESMAYAR A-VECES",
+ 				"le": "A veces pierdo mi visión y me desmayo."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "ESTE MOTIVO MISMO ATRÁS HASTA-AHORA DOLOR FUERTE MÁS",
+ 				"le": "Ya vine por este motivo y el dolor es más fuerte ahora."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO OÍDO DOLOR",
+ 				"le": "Me duele el oído."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "LISTA-DE DOCUMENTO CUÁL TEMA MI PRÁCTICA EMPRESA CONVALIDAR",
+ 				"le": "¿Qué documentación necesito para convalidar mis prácticas de empresa?"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "CRÉDITOS RECONOCIMIENTO PEDIR TRAER",
+ 				"le": "Vengo a presentar la solicitud de reconocimiento de créditos."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "MATRÍCULA AMPLIAR PLAZO CUÁL",
+ 				"le": "¿Cuál es el plazo para ampliar la matrícula?"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "CÁNCER TERAPIA AFECTAR(s)",
+ 				"le": "La terapia del cáncer me afecta."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO MOCOS MOTIVO ALERGIA P+O+L+E+N",
+ 				"le": "Tengo mocos porque soy alérgico al polen."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO TOS ‘productiva’ SANGRE",
+ 				"le": "Toso con sangre."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO TOS SECA",
+ 				"le": "Tengo tos seca."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "LUZ MOLESTAR",
+ 				"le": "Me molesta la luz."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "PRUEBA ECOGRAFÍA TODAVÍA",
+ 				"le": "Todavía no me han hecho la ecografía."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "RESPIRAR COSTAR",
+ 				"le": "Me cuesta respirar."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO PADRE TENSIÓN ALTA",
+ 				"le": "Mi padre era hipertenso."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO POCO-A-POCO ENGORDAR",
+ 				"le": "He ido engordando progresivamente."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "SEMANA(UNO) ATRÁS HASTA-AHORA MAREOS NÁUSEAS",
+ 				"le": "Desde hace una semana tengo mareos y náuseas."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YO ANTIINFLAMATORIO TOMAR YA PERO YO IGUAL",
+ 				"le": "He tomado antiinflamatorios pero no me alivia."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "OPERAR YO NUNCA",
+ 				"le": "No me han operado nunca."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "TEMA TÍTULO AQUÍ CENTRO INFORMACIÓN YO NECESITAR",
+ 				"le": "Necesito información acerca de las titulaciones del centro."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "CARNET-UNIVERSIDAD MI DÓNDE",
+ 				"le": "He perdido mi carnet universitario."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "ÉPOCA VERANO HORARIO CUÁL",
+ 				"le": "¿Cuál es el horario de verano?"
+ 			}
+ 		}
+ 	]
+ }

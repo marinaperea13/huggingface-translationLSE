@@ -1,0 +1,555 @@
+ {
+ 	"data": [{
+ 			"translation": {
+ 				"ls": "LLUVIA REGION DE NIEVE DESAPARECIENDO LA LLUVIA DEL NORTE PUEDE VER ESTRELLAS DE REGION",
+ 				"le": "lluvia y nieve en los Alpes en la noche después en el norte y noreste, caen aguaceros aquí y allá, de lo contrario, eso está despejado"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "JUEVES REGIÓN DE LLUVIAS DEL NOROESTE SOL NUBE CAMBIANDO LUEGO VIERNES CLIMA SIMILAR",
+ 				"le": "el jueves lluvia en la mitad norte en la mitad sur a veces sol a veces nubes clima similar luego también el viernes"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "MAÑANA FUERTE MAÑANA MAYORMENTE NIEVE NIEVE LLUVIA FRÍA",
+ 				"le": "desde el mar del norte una poderosa profundidad atrae y nos trae fuertes nevadas, a veces lluvia helada, desde las horas de la mañana"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "FIN DE SEMANA DOM SÁBADO HERMOSA TEMPERATURA HASTA DIECISIETE GRADOS REGIÓN",
+ 				"le": "El sábado de fin de semana también es soleado, un día maravilloso con temperaturas de hasta diecisiete grados aquí en el oeste."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "TIERRA ALEMANA MAÑANA ALTA PRESIÓN QUE VIENE NUBE LIBERADA",
+ 				"le": "Alemania estará bajo la influencia de una alta presión mañana, que en gran medida alejará las nubes."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "DOMINGO PRÓXIMO NOROESTE NUBE SOL NUBE LLUVIA TORMENTA CON ESTA",
+ 				"le": "el domingo en el noroeste una mezcla de sol y nubes con algunos chubascos de tormenta"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "PROBABLEMENTE MÁS CLARO, TRUENO",
+ 				"le": "Lluvias o tormentas eléctricas locales que pueden ser violentas"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "MANTENERSE FRÍA ENORME NIEVE EN EL CURSO",
+ 				"le": "en cualquier caso, los próximos días seguirán siendo invernales con un poco de nieve"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "FIN DE SEMANA IX MÁS FRÍO",
+ 				"le": "y el fin de semana incluso vuelve un poco más frío"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "MAÑANA, MEZCLA DE OTOÑO, NUBE ALTA NIEBLA SOL",
+ 				"le": "mañana nos espera una tranquila mezcla otoñal de niebla alta, nubes y sol"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "PERO EN EL PROGRESO NIEBLA ALTA NIEBLA IX",
+ 				"le": "más tarde, sin embargo, la niebla o los campos de niebla alta"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "PERMANECER MUCHO MAÑANA",
+ 				"le": "aguantan bastante duro mañana"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "DIFERENCIA DE PRESIÓN DÉBIL DEL PAÍS ALEMÁN",
+ 				"le": "en alemania solo hay ligeras diferencias en la presión del aire"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "REGIÓN REGIÓN HÚMEDA IX REGIÓN TORMENTA",
+ 				"le": "el aire húmedo fluye desde el mar mediterráneo en el que a veces pueden desarrollarse fuertes tormentas eléctricas"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "SIMILAR A HOY SEIS ENTRE GRADOS ELF",
+ 				"le": "temperaturas muy similares a las de hoy entre seis y once grados"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "NOCHE NORTE AL COMIENZO DE ENORMES AGUACEROS ESPINAS LUEGO DESAPARECE LA NUBE",
+ 				"le": "En la mitad norte de la noche todavía hay algunos chubascos y tormentas eléctricas, entonces está claro que parcialmente"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "HASTA LA NOCHE ENTRANTE LUEGO BAJANDO",
+ 				"le": "y al anochecer el límite de nevadas también puede hundirse en las tierras bajas"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "AHORA PREVISIÓN METEOROLÓGICA PARA MAÑANA VIERNES 15 DE OCTUBRE",
+ 				"le": "y ahora la previsión meteorológica para mañana viernes 15 de octubre"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "NORTE VER MÁS NUBES NORTE MÁS LLUVIA",
+ 				"le": "mañana por la mañana se formará una nueva profundidad sobre el mar del norte que provocará fuertes lluvias desde el norte"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "ESTA NOCHE AL SUR UN POCO DE CIELO CLARO TAMBIÉN INCLUYE NIEBLA",
+ 				"le": "esta noche en el sur está parcialmente despejado pero parcialmente niebla"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "NORTE NOROESTE MAYORMENTE LLUVIA TAMBIÉN POSIBLEMENTE POCO TORMALES",
+ 				"le": "A lo largo del año, a veces llueve intensamente en el norte y el noroeste, y hay algunas tormentas eléctricas."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "MAÑANA ACTUALMENTE SOL",
+ 				"le": "mañana el sol volverá a brillar en todas partes"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "SÁBADO LLUVIA SUDESTE NORTE LUEGO VIENTO FUERTE DE LO CONTRARIO LLUVIA IX PARTICULARMENTE TAMBIÉN SOL",
+ 				"le": "los sábados llueve en el sureste y en el mar Báltico hay algo de viento; de lo contrario, solo llueve ocasionalmente en parte, el sol se asoma"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "JUEVES SUDESTE MÁS CAMBIANTE NOROESTE SOL MÁS AMIGABLE",
+ 				"le": "el jueves todavía es cambiante en la mitad sureste hacia el noroeste es amigable"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "DESAPARICIÓN DEL OESTE NOROESTE",
+ 				"le": "en el oeste y noroeste el clima se calma más tarde"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "MAÑANA ESTE SUDESTE MEZCLA SOL NUBE LLUVIA PARCIAL TORMENTA",
+ 				"le": "mañana habrá fuertes lluvias o tormentas eléctricas en el este y sureste con una mezcla de sol y nubes"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "TEMPERATURA CERO GRADOS FRÍO NORTE MENOS CINCO GRADOS",
+ 				"le": "temperaturas solo alrededor de cero grados, las más frías en el norte a menos cinco grados"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "LA PRÓXIMA SEMANA EL AIRE ESTARÁ MÁS FRESCO",
+ 				"le": "el aire que fluye hacia nosotros en la próxima semana es mucho más frío"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "MARTES PRINCIPALMENTE SOL PERO TAMBIÉN TIENE NUBES2 CAMBIANDO POSIBLE LLUVIA O TRONADAS",
+ 				"le": "el martes es parcialmente agradable parcialmente nublado algunas lluvias son a veces tormentas eléctricas"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "DOMINGO REGIÓN NORTE CENTRAL LLUVIA TORMENTA NORTE",
+ 				"le": "el domingo en el norte y en medio de los chubascos hace tormentoso en el norte"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "MEJOR REGIÓN SUR",
+ 				"le": "en el clima amistoso del sur"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "JUEVES DIFERENCIA DE TEMPERATURA DE LA REGIÓN DE CLIMA EXTREMO DE SEIS A VEINTE GRADOS",
+ 				"le": "El jueves será realmente flagrante ya que esperamos tormentas en Alemania y grandes diferencias de temperatura entre seis y veinte grados."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "INCLUSO SÁBADO LLUVIA NIEVE NIEVE EN EL ACTUAL OESTE NOROESTE MÁS AMIGABLE",
+ 				"le": "Incluso el sábado llueve o nieva mucho, luego se vuelve más amigable en el oeste y el norte"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "SUDOESTE CERO ESTE MENOS SIETE POSIBLE",
+ 				"le": "en el suroeste mañana los valores están alrededor del punto de congelación en el este a menos siete grados"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "LA REGIÓN SUR PUEDE CONGELAR EL SUELO POR LA NOCHE",
+ 				"le": "En la mitad sur de esto, se deben esperar heladas nocturnas."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "DÍA MONTAÑA SEIS GRADOS IX REGIÓN REGIÓN DE TRECE GRADOS",
+ 				"le": "un día seis grados en los Alpes y trece grados en el Rin superior"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "AHORA EL TIEMPO DE MAÑANA SE VE COMO MAÑANA 15 DE OCTUBRE",
+ 				"le": "y ahora la previsión meteorológica para mañana jueves 15 de octubre"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "HOY POR LA NOCHE MÁS CUATRO ESTE MENOS CUATRO REGIÓN",
+ 				"le": "esta noche más cuatro grados en el mar Báltico a menos cuatro grados en la cordillera baja"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "AHORA EL CLIMA DE LA MAÑANA SE VE COMO EL TRECE DE OCTUBRE",
+ 				"le": "y ahora la previsión meteorológica para mañana martes 13 de octubre"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "AMIGABLE DEL OESTE",
+ 				"le": "en el oeste es amigable"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "Incluso el jueves",
+ 				"le": "clima similar entonces también el jueves"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "VIERNES MUCHAS NUBES",
+ 				"le": "el viernes hubo muchas nubes que traen lluvia"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "NIEVE CONOCIENDO AL SUR",
+ 				"le": "en el este y sureste también nieve o aguanieve"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "DÍA ESTE LOTES DE SOL OESTE REGIÓN RÍO LLUVIA",
+ 				"le": "mucho sol en el este durante el día en el oeste llueve entre el bajo rin y frisia oriental"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "PRIMERAS TORMENTAS SOLO OESTE RIESGO CADA DÍA ESTE MÁS TORMENTAS DEL ESTE OESTE",
+ 				"le": "Inicialmente, el riesgo de tormentas eléctricas solo aumenta en el oeste, pero también aumenta en el este día a día."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "MAÑANA ANTES DEL MEDIODÍA NORTE FUERTE VIENTO SOPLADO DÉBIL",
+ 				"le": "mañana por la mañana en el mar Báltico todavía fuertes ráfagas de lo contrario el viento sopla de débil a moderado de este a sureste"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "AUNQUE MÁS ELSE REGIÓN HELADA",
+ 				"le": "Allí incluso con leves grados positivos, pero por lo demás permanece helado"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "ESPECIALMENTE COLD SUED SUDESTE",
+ 				"le": "y el rincón más frío seguirá siendo todo el sureste"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "EL TIEMPO DE LA MAÑANA SE VE COMO DOMINGO DOCE DE JULIO",
+ 				"le": "y ahora la previsión meteorológica para mañana domingo 12 de julio"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "HOY NOCHE SON DE CATORCE A SIETE GRADOS",
+ 				"le": "por la noche las temperaturas bajan de catorce a siete grados"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "MAÑANA DIECISIETE REGIONES CINCO VEINTE REGIONES",
+ 				"le": "mañana valores altos entre diecisiete grados en el emsland y veinticinco grados en el alto rin"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "MARTES MIÉRCOLES SOL, NUBE CAMBIANDO AGUACEROS REGIÓN TÍPICA, LLUVIA, TORMALES",
+ 				"le": "también los martes y miércoles, a veces sol, a veces nubes y chubascos en la mitad sureste, a veces fuertes tormentas"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "DESCUBRE EL CLIMA AHORA MAÑANA, MARTES, PRIMERO DE FEBRERO",
+ 				"le": "y ahora la previsión meteorológica para mañana martes primero de febrero"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "REGIÓN ESTE COMIENZO AMISTOSO ESPAÑOL NOROESTE TAMBIÉN SOL NUBE DE OTRA REGIÓN",
+ 				"le": "el día comienza en el muy este aún más agradable, luego el sol aparece con más frecuencia en el noroeste, de lo contrario predominan las nubes"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "TRANSPARENTE, THUNDERMARK, FRESCO",
+ 				"le": "en muchos lugares hay lluvias y tormentas eléctricas que pueden ser violentas"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "REGIÓN DURANTE EL DÍA LUEGO NUBE Y LUEGO TORMENTA SUROESTE",
+ 				"le": "En el transcurso del día, se pueden formar nubes acumulativas en lugares sobre las montañas, y en el suroeste, se pueden esperar tormentas eléctricas aisladas."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "VIENTO DÉBIL",
+ 				"le": "mayormente, el viento sopla débilmente desde el oeste"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "ENVIAR UNA BUENA NOCHE",
+ 				"le": "ahora te deseo una buena velada"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "OESTE NOROESTE IX AGUACEROS IX",
+ 				"le": "lluvias individuales caen en el oeste y noroeste"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "REGIÓN DE SOPLADO AGUACEROS FRESCOS IX",
+ 				"le": "viento fresco con ráfagas fuertes a tormentosas con chubascos en el mar del norte y, a veces, ráfagas de viento en las montañas"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "MAÑANA SÁBADO 5 DE DICIEMBRE COMO SE VE EL CLIMA",
+ 				"le": "y ahora el pronóstico del tiempo para mañana sábado cinco de diciembre"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "TIEMPO POCO CALMA LUEGO MAÑANA IX REGIÓN LLEGA BAJO",
+ 				"le": "Después de una breve calma del tiempo, mañana nos llegará una nueva marea baja desde el oeste."
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "NUBE LLUVIA CUANDO LA MONTAÑA IX TAMBIÉN NIEVE",
+ 				"le": "vuelve a crear nubes, la lluvia en las montañas también trae nieve"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "DOMINGO MAS LEVE MUCHAS NUBES LLUVIA VIENTO DEL NOROESTE",
+ 				"le": "a partir del domingo volverá a ser más suave pero hay muchas nubes a veces la lluvia cae en el noroeste con viento"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "LUNES MARTES TAMBIÉN SIEMPRE SOL",
+ 				"le": "Lunes y martes cambia aquí y allá pero el sol también aparece"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "HOY MÁS NUBE SUELTA O ESTRELLA CLARA VER NUBE DEL NOROESTE",
+ 				"le": "esta noche es mayormente solo un poco nublado o despejado en el noroeste también hay algunas nubes más espesas"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "MAÑANA REALMENTE PARA CONOCER LAS TORMENTAS DE LLUVIA",
+ 				"le": "mañana se pueden esperar lluvias y tormentas eléctricas generalizadas"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "SÁBADO MÁS AMISTOSO SECO MÁS CALIENTE",
+ 				"le": "el sábado mayormente amigable mayormente seco y cálido"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "REGIÓN DOMINGO, TORMOSTOMAS DE LLUVIA",
+ 				"le": "El domingo, nuevamente se acercan lluvias y tormentas desde el noroeste"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "IX TORMENTA MARINA",
+ 				"le": "fuertes ráfagas de viento en el mar del norte y en las montañas"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "NUBE QUE-ES-ES DE NOCHE DOS A OCHO neg-ARE HELADA",
+ 				"le": "bajo las nubes esta noche sin heladas de dos a ocho grados"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "EL CLIMA DE LA MAÑANA SE VE COMO EL PRIMER ABRIL JUEVES",
+ 				"le": "y ahora la previsión meteorológica para mañana jueves primero de abril"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "ESTA NOCHE PROFUNDA TAMBIÉN LLEGA FRÍO, MAÑANA CAMBIANDO EL CLIMA",
+ 				"le": "las profundidades de Escocia, junto con el aire fresco, aseguran un clima cambiante mañana"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "VIERNES SOL LOS AGUACEROS QUE CAMBIAN EN LA NUBE PUEDEN SER IX PERO SOL LARGO",
+ 				"le": "el viernes hubo sol y nubes y solo algunas lluvias en lugares donde el sol aparece por períodos de tiempo más largos"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "MIXTURE MIST DISUELVE LUEGO NUBE SOL",
+ 				"le": "y así nos espera una mezcla de campos de niebla parcialmente espesos, nubes y sol"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "EL LUNES COMIENZA CAMBIANTEMENTE MÁS FRESCO",
+ 				"le": "la nueva semana comienza cambiante y más fresca"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "YA TREINTA GRADOS SUR DE FRANCIA YA CALIENTE AQUÍ TIERRA ALEMANA YA SUROESTE CINCO VEINTE GRADOS",
+ 				"le": "mañana tendremos treinta grados mañana también en el sur de Francia y para nosotros probablemente ya veinticinco grados en el suroeste"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "JUEVES MÁS HERMOSO MÁS CALIENTE",
+ 				"le": "sí, el jueves es casi aún mejor y un poco más cálido"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "DESPUÉS DE UN POCO EN LA NOCHE LLUVIA NOROESTE",
+ 				"le": "Al final de la tarde o al anochecer probablemente habrá las primeras lluvias en el noroeste"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "DÉBIL TORMENTA NORTE SOPLADO NORTE SUR TORMENTA FUERTE",
+ 				"le": "débil a moderado en el norte también viento fresco de este a sudeste en el mar del norte y en las montañas es fuerte con ráfagas de tormenta"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "JUEVES VIERNES ALTERNATIVOS OESTE LLEGA AMISTOSO",
+ 				"le": "el jueves sigue siendo inconsistente, pero a partir del viernes se está volviendo más amigable desde el oeste"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "PESO DÉBIL SOPLADO DE MONTAÑA SOPLADO NORTE IX SOPLADO",
+ 				"le": "débil a moderado en las montañas en ráfagas y viento fuerte en la mitad norte de este a noreste de lo contrario desde diferentes direcciones"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "VENTOS DÉBIL VARIOS",
+ 				"le": "el viento suele soplar débilmente y procede de diferentes direcciones"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "LUNES NUBE CAMBIANTE ESPECIALMENTE REGIÓN AGUACEROS TRONADAS",
+ 				"le": "el lunes es variable, a veces sol, a veces nubes, especialmente en la mitad este, algunos chubascos y tormentas eléctricas"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "PANTALLA DE MUESTRA DE VIENTO DE ANTE DE VIENTO DÉBIL",
+ 				"le": "aparte de las tormentas eléctricas viento débil a moderado"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "SUEDWEST VEN MÁS SECO",
+ 				"le": "del suroeste al centro suele permanecer seco"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "MAÑANA DIECIOCHO NORTE LUEGO SEIS VEINTE REGIÓN",
+ 				"le": "mañana temperaturas de dieciocho grados en la costa a veintiséis en breisgau"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "REGIÓN DE VIENTO",
+ 				"le": "Además, un fuerte viento sopla sobre todo sobre Pomerania Occidental desde el sureste"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "EL PRÓXIMO DOMINGO OTRA VEZ MAL CAMBIABLE",
+ 				"le": "a partir del domingo vuelve a bajar, se vuelve más cambiante"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "LUEGO LLUVIA REGION ESTE LEVE Quince Dieciséis",
+ 				"le": "Sigue siendo más suave bajo las nubes de lluvia en el este con quince dieciséis grados"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "DESCUBRE EL CLIMA AHORA MAÑANA, MARTES UNO VEINTE DE JUNIO",
+ 				"le": "y ahora la previsión meteorológica para mañana martes veintiuno de junio"
+ 			}
+ 		},
+ 		{
+ 			"translation": {
+ 				"ls": "RÍO SUAVE DIECISÉIS GRADOS SÓLO RÍO OCHO GRADOS",
+ 				"le": "en el saar esta noche un leve dieciséis en el elba a veces sólo ocho grados"
+ 			}
+ 		}
+ 	]
+ }
